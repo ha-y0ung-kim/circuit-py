@@ -45,10 +45,10 @@ class Ground:
         self.n.V = 0
 
 
-n1 = Node()
-n2 = Node()
+# n1 = Node()
+# n2 = Node()
 
-G = Ground(n1)
-Vs = Vsource(n1, n2, 5)
-Res = Resistor(n2, n1, 2.5)
-print(Res.I)
+# G = Ground(n1)
+# Vs = Vsource(n1, n2, 5)
+# Res = Resistor(n2, n1, 2.5)
+# print(Res.I)
